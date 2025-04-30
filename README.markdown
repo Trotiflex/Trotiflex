@@ -12,11 +12,11 @@ Je suis **Trotiflex**, étudiante en informatique passionnée par le **développ
   Un bot Discord pour le modpack Minecraft Cobbleverse, avec des commandes comme `/pokemon`, `/evolve`, `/legendary`, et `/help`. Bientôt enrichi avec des fonctionnalités RAG pour des réponses dynamiques.  
   *Technos : JavaScript, Node.js, Discord.js*
 
-- **[Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js] (https://github.com/Trotiflex/Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js)**  
+- **[Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js](https://github.com/Trotiflex/Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js)**  
   Un projet de détection d'objets multiples utilisant un modèle pré-entraîné en TensorFlow.js, pour explorer les applications de l'IA dans le navigateur.  
   *Technos : JavaScript, TensorFlow.js, Coco_ssd*
 
-- **Game-of-Life**  
+- **[Game of life](https://github.com/Trotiflex/game_of_life)**  
   Une implémentation du Jeu de la Vie de Conway, un automate cellulaire classique, pour expérimenter avec des algorithmes de simulation.  
   *Technos : JavaScript, HTML, CSS*
 
