@@ -16,7 +16,7 @@ Je suis **Trotiflex**, étudiante en informatique passionnée par le **développ
   Un projet de détection d'objets multiples utilisant un modèle pré-entraîné en TensorFlow.js, pour explorer les applications de l'IA dans le navigateur.  
   *Technos : JavaScript, TensorFlow.js, Coco_ssd*
 
-- **[Game of life](https://github.com/Trotiflex/game_of_life)**  
+- **[Game of life](https://github.com/Trotiflex/game-of-life)**  
   Une implémentation du Jeu de la Vie de Conway, un automate cellulaire classique, pour expérimenter avec des algorithmes de simulation.  
   *Technos : JavaScript, HTML, CSS*
 
