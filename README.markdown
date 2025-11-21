@@ -2,11 +2,11 @@
 
 Je suis **Trotiflex**, étudiante en informatique passionnée par le **développement logiciel** et l'**intelligence artificielle**. Je code en **PHP**, **JavaScript**, **HTML/CSS**, **Node.js**, **SQL**, et **NoSQL (MongoDB)**, et j'explore des technologies comme **RAG** pour des bots intelligents.
 
-🌟 Découvrez mes projets ci-dessous !
+ Découvrez mes projets ci-dessous !
 
 ---
 
-## 🔧 Projets
+##  Projets
 
 - **[CobbleverseDiscordBot](https://github.com/Trotiflex/CobbleverseDiscordBot)**  
   Un bot Discord pour le modpack Minecraft Cobbleverse, avec des commandes comme `/pokemon`, `/evolve`, `/legendary`, et `/help`. Bientôt enrichi avec des fonctionnalités RAG pour des réponses dynamiques.  
@@ -22,7 +22,7 @@ Je suis **Trotiflex**, étudiante en informatique passionnée par le **développ
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 
 ### Langages
 <p align="center">
@@ -47,7 +47,7 @@ Je suis **Trotiflex**, étudiante en informatique passionnée par le **développ
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Trotiflex&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Stats">
@@ -57,4 +57,3 @@ Je suis **Trotiflex**, étudiante en informatique passionnée par le **développ
 
 ---
 
-🚀 N'hésite pas à explorer mes projets ou à me contacter via GitHub !
