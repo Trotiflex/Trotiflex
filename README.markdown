@@ -1,4 +1,6 @@
-# Bienvenue sur mon profil ! 👋
+`HTTP 420 : Enhance Your Calm`
+
+# Bienvenue sur mon profil ! 
 
 Je suis **Trotiflex**, étudiante en informatique passionnée par le **développement logiciel** et l'**intelligence artificielle**. Je code en **PHP**, **JavaScript**, **HTML/CSS**, **Node.js**, **SQL**, et **NoSQL (MongoDB)**, et j'explore des technologies comme **RAG** pour des bots intelligents.
 
@@ -30,6 +32,9 @@ Je suis **Trotiflex**, étudiante en informatique passionnée par le **développ
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
+ <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="ANGULAR">
+ <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript">
+ <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
 </p>
 
 ### Frameworks & Bibliothèques
