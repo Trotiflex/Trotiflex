@@ -47,7 +47,6 @@ I've started learning Algorave with Strudel, and I'll probably put together a re
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="ANGULAR">
  <img height="25"  src="https://github.com/user-attachments/assets/20f8aa2d-7e6b-4fc3-893e-f10cf1430389" alt="spring-framework">
- <img width="500" height="500" alt="free-postgresql-logo-icon-svg-download-png-3030216" src="https://github.com/user-attachments/assets/2a6f3291-645e-41f9-a353-4d7475b22f50" />
 
 </p>
 
