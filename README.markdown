@@ -1,30 +1,28 @@
 `HTTP 420 : Enhance Your Calm`
 
-# Bienvenue sur mon profil ! 
+# Welcome to my profile! 
 
-Je suis **Trotiflex**, étudiante en informatique passionnée par le **développement logiciel** et l'**intelligence artificielle**. Je code en **PHP**, **JavaScript**, **HTML/CSS**, **Node.js**, **SQL**, et **NoSQL (MongoDB)**, et j'explore des technologies comme **RAG** pour des bots intelligents.
+I'm **Trotiflex**, a computer science student passionate about **software development** and **artificial intelligence**. 
 
- Découvrez mes projets ci-dessous !
+I've started learning Algorave with Strudel, and I'll probably put together a repo of the songs I'm reworking for practice !
 
 ---
 
-##  Projets
-
+##  Projects
+- **[Simple Perceptron]()**
+   I Created a simple perceptron to get started with Rust
 - **[CobbleverseDiscordBot](https://github.com/Trotiflex/CobbleverseDiscordBot)**  
-  Un bot Discord pour le modpack Minecraft Cobbleverse, avec des commandes comme `/pokemon`, `/evolve`, `/legendary`, et `/help`. Bientôt enrichi avec des fonctionnalités RAG pour des réponses dynamiques.  
-  *Technos : JavaScript, Node.js, Discord.js*
+  A Discord bot for the Minecraft Cobbleverse modpack, with commands like `/pokemon`, `/evolve`, `/legendary`, and `/help`. Coming soon with RAG features for dynamic responses.  
 
 - **[Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js](https://github.com/Trotiflex/Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js)**  
-  Un projet de détection d'objets multiples utilisant un modèle pré-entraîné en TensorFlow.js, pour explorer les applications de l'IA dans le navigateur.  
-  *Technos : JavaScript, TensorFlow.js, Coco_ssd*
+  A project for multiple object detection using a pre-trained model in TensorFlow.js, to explore AI applications in the browser.  
 
-- **[Game of life](https://github.com/Trotiflex/game-of-life)**  
-  Une implémentation du Jeu de la Vie de Conway, un automate cellulaire classique, pour expérimenter avec des algorithmes de simulation.  
-  *Technos : JavaScript, HTML, CSS*
+- **[Game of Life](https://github.com/Trotiflex/game-of-life)**  
+  An implementation of Conway’s Game of Life, a classic cellular automaton, to experiment with simulation algorithms.  
 
 ---
 
-##  Compétences
+##  Skillzzzz
 
 ### Langages
 <p align="center">
@@ -34,25 +32,26 @@ Je suis **Trotiflex**, étudiante en informatique passionnée par le **développ
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3">
  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="ANGULAR">
  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript">
- <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
 </p>
 
-### Frameworks & Bibliothèques
+### Frameworks &  Lib
 <p align="center">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express">
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
+ <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="ANGULAR">
 </p>
 
-### Bases de données
+### Databases
 <p align="center">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB">
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg" alt="postgres">
 </p>
-
 
 ---
 
-##  Statistiques GitHub
+## Github stat
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Trotiflex&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Stats">
