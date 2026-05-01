@@ -6,13 +6,15 @@ I'm **Trotiflex**, a computer science student passionate about **software develo
 
 I've started learning Algorave with Strudel, and I'll probably put together a repo of the songs I'm reworking for practice !
 
-<img width="860" height="484" alt="sassy-sasquatch-meditation-beach-75nfnngk5otujxqi" src="https://github.com/user-attachments/assets/71f7ac9c-6076-492d-b691-03ccdbf8cf6a" />
+--- 
+
+<img width="860" height="384" alt="sassy-sasquatch-meditation-beach-75nfnngk5otujxqi" src="https://github.com/user-attachments/assets/71f7ac9c-6076-492d-b691-03ccdbf8cf6a" />
 
 ---
-
 ##  Projects
 - **[Simple Perceptron](https://github.com/Trotiflex/perceptron_simple_rs)**
    I Created a simple perceptron to get started with Rust
+  
 - **[CobbleverseDiscordBot](https://github.com/Trotiflex/CobbleverseDiscordBot)**  
   A Discord bot for the Minecraft Cobbleverse modpack, with commands like `/pokemon`, `/evolve`, `/legendary`, and `/help`. Coming soon with RAG features for dynamic responses.  
 
@@ -44,7 +46,9 @@ I've started learning Algorave with Strudel, and I'll probably put together a re
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="ANGULAR">
-   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java-spring/java-spring-original.svg" alt="JAVA-spring">
+ <img height="25"  src="https://github.com/user-attachments/assets/20f8aa2d-7e6b-4fc3-893e-f10cf1430389" alt="spring-framework">
+ <img width="500" height="500" alt="free-postgresql-logo-icon-svg-download-png-3030216" src="https://github.com/user-attachments/assets/2a6f3291-645e-41f9-a353-4d7475b22f50" />
+
 </p>
 
 ### Databases
@@ -52,7 +56,8 @@ I've started learning Algorave with Strudel, and I'll probably put together a re
 <p align="center">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB">
-  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original.svg" alt="postgres">
+  <img  height="25" alt="free-postgresql-logo-icon-svg-download-png-3030216" src="https://github.com/user-attachments/assets/2a6f3291-645e-41f9-a353-4d7475b22f50" />
+
 </p>
 
 ---
