@@ -21,9 +21,6 @@ I've started learning Algorave with Strudel, and I'll probably put together a re
 - **[Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js](https://github.com/Trotiflex/Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js)**  
   A project for multiple object detection using a pre-trained model in TensorFlow.js, to explore AI applications in the browser.  
 
-- **[Game of Life](https://github.com/Trotiflex/game-of-life)**  
-  An implementation of Conway’s Game of Life, a classic cellular automaton, to experiment with simulation algorithms.  
-
 ---
 
 ##  Skillzzzz
