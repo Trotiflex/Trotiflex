@@ -57,7 +57,7 @@ I've started learning Algorave with Strudel, and I'll probably put together a re
 </p>
 
 ---
-![Statistiques GitHub de Trotiflex](https://github-stat-chi.vercel.app/api?username=Trotiflex&show_icons=true&theme=radial)
+![Statistiques GitHub de Trotiflex](https://github-stat-chi.vercel.app/api?username=Trotiflex&show_icons=true&theme=default)
 
 ## If you want to listen to the same music as me :)
 
