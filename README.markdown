@@ -60,11 +60,7 @@ I've started learning Algorave with Strudel, and I'll probably put together a re
 
 ## Github stat
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trotiflex&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trotiflex&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150" alt="Langages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trotiflex&theme=dracula&hide_border=true" height="200" alt="Activité">
-</div>
+<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
 
 ---
 
