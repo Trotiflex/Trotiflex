@@ -39,11 +39,12 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
 </p>
 
-### Bases de données
+### Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=chromadb&logoColor=white" alt="Chromadb" />
 </p>
 
 ---
@@ -65,7 +66,7 @@
 
 <p align="center">
   <img src="https://github-stat-chi.vercel.app/api?username=Trotiflex&show_icons=true&theme=default" width="48%" alt="Statistiques de Trotiflex" />
-  <img src="https://github-stat-chi.vercel.app/api/top-langs/?username=Trotiflex&layout=compact&theme=default" width="48%" alt="Langages les plus utilisés" />
+  <img src="https://github-stat-chi.vercel.app/api/top-langs/?username=Trotiflex&layout=compact&theme=default" width="40%" alt="Langages les plus utilisés" />
 </p>
 
 ---
