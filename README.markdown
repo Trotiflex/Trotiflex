@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-stat-chi.vercel.app/api?username=Trotiflex&show_icons=true&theme=default" width="48%" alt="Statistiques de Trotiflex" />
-  <img src="https://github-stat-chi.vercel.app/api/top-langs/?username=Trotiflex&layout=compact&theme=default" width="38%" alt="Langages les plus utilisés" />
+  <img src="https://github-stat-chi.vercel.app/api/top-langs/?username=Trotiflex&layout=compact&theme=default" width="37%" alt="Langages les plus utilisés" />
 </p>
 
 
