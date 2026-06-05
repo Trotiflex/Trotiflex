@@ -58,9 +58,9 @@ I've started learning Algorave with Strudel, and I'll probably put together a re
 
 ---
 
-## Github stat
+## If you want to listen to the same music as me :)
 
-<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xwmo2p4vo7xtqea8n3ppvd3mx&cover_image=true&theme=spotify-embed&show_offline=false&background_color=5c5c5c&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
