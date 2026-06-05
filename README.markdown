@@ -60,7 +60,6 @@
 *  **[TensorFlow.js Object Detection](https://github.com/Trotiflex/Multiple-object-detection-using-pre-trained-model-in-TensorFlow.js)**
     Détection d'objets multiple dans le navigateur en utilisant un modèle pré-entraîné TensorFlow.js pour explorer l'IA côté client.
 
----
 
 ##  GitHub Stats
 
@@ -69,7 +68,7 @@
   <img src="https://github-stat-chi.vercel.app/api/top-langs/?username=Trotiflex&layout=compact&theme=default" width="40%" alt="Langages les plus utilisés" />
 </p>
 
----
+
 
 ## Current Vibes
 
