@@ -57,6 +57,7 @@ I've started learning Algorave with Strudel, and I'll probably put together a re
 </p>
 
 ---
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=trotiflex&count_private=true&show_icons=true&hide=contribs)
 
 ## If you want to listen to the same music as me :)
 
